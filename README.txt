@@ -6,3 +6,5 @@ GUI for:
 -Car Diagnostics
 -Car start
 -Phone calls
+
+need to learn android development
